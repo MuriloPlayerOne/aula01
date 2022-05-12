@@ -1,0 +1,25 @@
+
+
+.menu{
+    background: #0855a1;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.menu a{
+    color: #fff;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.menu strong {
+    color: #fff;
+    padding: 4px;
+    border: 1px ;
+    border-radius: 7px;
+}
+
+.menu img{
+    width: 220px;
+}
